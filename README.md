@@ -15,8 +15,3 @@ Execute the script using the following command:
 ```bash
 chmod +x v53.sh && ./v53.sh
 ```
-
-### 3. Run the Script
-```bash
-chmod +x v53.sh && ./v53.sh
-```
