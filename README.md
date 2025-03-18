@@ -16,10 +16,6 @@ Execute the script using the following command:
 chmod +x v53.sh && ./v53.sh
 ```
 
-If you want to use **v36**, follow the same steps but replace `v29.sh` with `v36.sh`:
-
-
-
 ### 3. Run the Script
 ```bash
 chmod +x v53.sh && ./v53.sh
